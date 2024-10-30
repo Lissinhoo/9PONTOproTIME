@@ -3,6 +3,6 @@ color:rgb(186, 180, 190);
 background:rgb(26, 19, 19)
 }
 
-header {
-    boader: solid 2 px white;
-}
+element.style {
+    border: solid;
+ }
